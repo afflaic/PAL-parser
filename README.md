@@ -40,4 +40,4 @@ o instructions may be followed by zero or more spaces<br />
 • comments begin with a semi-colon and end with EOL; they may be on a line alone, or following code on a line<br />
 
 Author: Nick Miller<br />
-The syntax for PAL was created as a school assignment and I take no credit in the creation or naming of the language.
+Disclaimer: The syntax for PAL was created as a school assignment and I take no credit in the creation or naming of the language.
